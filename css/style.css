@@ -118,20 +118,7 @@ h1 {
 }
 
 /* Navigasi */
-.next,
-.prev {
-  width: 70px;
-  height: 86px;
-  position: absolute;
-  background-image: url(../img/next.png);
-  top: 270px;
-  margin-left: 50px;
-  opacity: 0;
-}
-.prev {
-  background-image: url(../img/prev.png);
-  margin-left: -120px;
-}
+
 /* Animasi */
 @keyframes fade {
   0% {
